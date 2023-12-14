@@ -1,0 +1,12 @@
+{
+  "name": "tower-chat-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "(cd backend && npm install) & (cd frontend && npm install)",
+    "start": "(cd backend && npm start) & (cd frontend && npm run dev)"
+  },
+  "author": "James Rosal",
+  "license": "ISC"
+}
