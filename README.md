@@ -147,7 +147,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-James Rosal - [jamesrosal.com](https://jamesrosal.com) - jamesfrosal@gmail.com
+James Rosal - [jamesrosal.com](https://jamesrosal.com) - jamesfrosal@gmail.com - [linkedin](https://www.linkedin.com/in/jamesrosal/)
 
 Project Link: [https://github.com/jamesrosal/tower-chat](https://github.com/jamesrosal/tower-chat)
 
