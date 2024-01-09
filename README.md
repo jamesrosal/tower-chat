@@ -121,6 +121,8 @@ npm start
 - [ ] Password addition for authentication (bcrypt)
 - [ ] CRUD functionality for profiles
 
+See the [open issues](https://github.com/jamesrosal/tower-chat/issues) for a full list of proposed features (and known issues).
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
